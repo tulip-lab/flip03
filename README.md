@@ -1,6 +1,6 @@
 # README #
 
-This repositories is created for the notebook of  pyspark and PGM.
+This created for flip03.
 
 ### What is this repository for? ###
 
